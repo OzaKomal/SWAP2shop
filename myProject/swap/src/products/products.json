@@ -1,0 +1,54 @@
+[
+{
+    "model": "products.product",
+    "pk": 1,
+    "fields": {
+        "title": "T-Shirt",
+        "slug": "t-shirt",
+        "description": "This is an awesome shirt. Buy it. :)",
+        "image": "",
+        "featured": false,
+        "active": true,
+        "timestamp": "2018-04-18T19:29:03.347Z"
+    }
+},
+{
+    "model": "products.product",
+    "pk": 3,
+    "fields": {
+        "title": "Hat",
+        "slug": "hat",
+        "description": "This is my awesome hat",
+        "image": "products/2969889474/2969889474.jpg",
+        "featured": false,
+        "active": true,
+        "timestamp": "2018-04-18T19:29:03.347Z"
+    }
+},
+{
+    "model": "products.product",
+    "pk": 4,
+    "fields": {
+        "title": "Lorem Ipsum",
+        "slug": "lorem-ipsum",
+        "description": "Forever21 Top",
+        "image": "AROL-BLUE-LIGHT-IRO-180415150423_700x.jpg",
+        "featured": true,
+        "active": true,
+        "timestamp": "2018-04-18T19:29:03.347Z"
+    }
+},
+{
+    "model": "products.product",
+    "pk": 5,
+    "fields": {
+        "title": "T-shirt",
+        "slug": "t-shirt-y7f6",
+        "description": "another one?>?",
+        "image": "AROL-BLUE-LIGHT-IRO-180415150423_700x.jpg",
+        "featured": false,
+        "active": true,
+        "timestamp": "2018-04-18T19:29:03.347Z"
+    }
+}
+]
